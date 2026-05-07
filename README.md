@@ -65,5 +65,5 @@ Xây dựng **Postman Collection** với hơn 15 kịch bản kiểm thử, tậ
 
 **Luyện Ngọc Lâm Hoan**
 - 📧 Email: lamhoan.luyen@gmail.com
-- 🔗 Portfolio: [Dán Link Notion Portfolio của sếp vào đây]
+- 🔗 Portfolio: https://superficial-reward-cfb.notion.site/L-m-Hoan-Portfolio-API-Security-Logic-Testing-357cd8809d858020a5f8fce253e07e35?pvs=74
 - 🔗 GitHub: [https://github.com/HoanLam-165](https://github.com/HoanLam-165)
