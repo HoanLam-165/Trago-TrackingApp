@@ -1,4 +1,4 @@
-<img width="862" height="1899" alt="image" src="https://github.com/user-attachments/assets/685c6a32-a841-4825-89df-f2dad1c29d2b" /># 📍 TraGo – Geo-Tracking Journal App
+# 📍 TraGo – Geo-Tracking Journal App
 
 **TraGo** là ứng dụng ghi lại hành trình di chuyển thời gian thực trên thiết bị Android, hỗ trợ đánh dấu địa điểm bằng hình ảnh và đồng bộ dữ liệu với máy chủ.
 
